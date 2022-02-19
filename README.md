@@ -45,3 +45,27 @@ ___
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
 
 ### ・ HTML
+
+### ・ CSS
+
+### ・ SCSS
+
+### ・ Ruby
+
+### ・ Ruby on Rails
+
+### ・ AWS
+
+その他
+
+### ・ Git
+
+### ・ GitHub
+
+### ・ SourceTree
+
+___
+
+## :tada: 成果物
+
+___
