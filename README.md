@@ -42,4 +42,4 @@ ___
 
 ### 主に学習している言語・フレームワークなど
 
-https://t.co/ueYu24aJhE
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
