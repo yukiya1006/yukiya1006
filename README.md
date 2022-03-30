@@ -72,3 +72,5 @@ JavaScriptを使用した簡単な４択問題です
 
 https://yukiya1006.github.io/JS_Question_App/
 ___
+
+file:///C:/Users/ymkyk/Downloads/Untitled%20Diagram.drawio.pdf
