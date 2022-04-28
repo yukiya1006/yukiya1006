@@ -27,4 +27,9 @@ https://yukiya1006.github.io/gsap-text-animation/
 Gsap Box Animation
 https://yukiya1006.github.io/gsap-box-animation/
 
+Background Hover Animation
+https://yukiya1006.github.io/background-hover-animation/
+
 ## :tada: Page Design
+Video Website Design
+https://yukiya1006.github.io/video-website-design/
