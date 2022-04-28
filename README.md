@@ -33,3 +33,6 @@ https://yukiya1006.github.io/background-hover-animation/
 ## :tada: Page Design
 Video Website Design
 https://yukiya1006.github.io/video-website-design/
+
+Music Website Design
+https://yukiya1006.github.io/music-website-design/
