@@ -9,8 +9,6 @@ https://yukiya1006.github.io/JS_Question_App/
 
 ## :tada: Animation
 
-___
-
 Light and Dark Mode
 https://yukiya1006.github.io/light-and-dark-mode/
 
@@ -28,7 +26,5 @@ https://yukiya1006.github.io/gsap-text-animation/
 
 Gsap Box Animation
 https://yukiya1006.github.io/gsap-box-animation/
-
-___
 
 ## :tada: Page Design
