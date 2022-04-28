@@ -4,7 +4,7 @@
 
 ## :tada: Deliverables
 
-JavaScriptを使用した簡単な４択問題
+Js-Question
 https://yukiya1006.github.io/JS_Question_App/
 
 ## :tada: Animation
