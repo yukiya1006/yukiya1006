@@ -4,7 +4,7 @@
 
 ## :tada: Application
 
-Js-Question
+Js Question App
 https://yukiya1006.github.io/JS_Question_App/
 
 ## :tada: Animation
