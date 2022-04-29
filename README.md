@@ -1,7 +1,7 @@
 ### 主に学習している言語・フレームワークなど
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameyukiya1006&=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiya1006&=anuraghazra&theme=dark&show_icons=true)
 ## :tada: Application
 
 Js Question App
