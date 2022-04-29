@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
 
-## :tada: Deliverables
+## :tada: App
 
 Js-Question
 https://yukiya1006.github.io/JS_Question_App/
