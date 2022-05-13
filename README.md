@@ -1,4 +1,4 @@
-## :tada: 主に学習している言語・フレームワークなど
+# :tada: ## 主に学習している言語・フレームワークなど
 <br>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
