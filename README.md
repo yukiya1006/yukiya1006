@@ -26,7 +26,7 @@
 
 トレーナーのマッチングサイト
 
-使用言語 HTML/CSS/JavaScprict/Ruby/SQL<rb>
+使用言語 HTML/CSS/JavaScprict/Ruby/SQL<br>
 ライブラリ jQuery/ScrollReveal<br>
 フレームワーク Ruby on Rails/Tailwind CSS
 
