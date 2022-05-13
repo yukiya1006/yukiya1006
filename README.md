@@ -89,5 +89,5 @@ Background Hover Animatuon　https://yukiya1006.github.io/Background-Hover-Anima
 
 
 
-# :tada: L
+# :tada: Landing Page
 Music　https://yukiya1006.github.io/Music_LP/
