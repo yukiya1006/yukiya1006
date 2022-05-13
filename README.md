@@ -26,8 +26,8 @@
 
 トレーナーのマッチングサイト
 
-使用言語 HTML/CSS/JavaScprict/Ruby/SQL
-ライブラリ jQuery/ScrollReveal
+使用言語 HTML/CSS/JavaScprict/Ruby/SQL<rb>
+ライブラリ jQuery/ScrollReveal<br>
 フレームワーク Ruby on Rails/Tailwind CSS
 
 アプリ概要　https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
