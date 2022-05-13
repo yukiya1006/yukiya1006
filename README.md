@@ -1,20 +1,28 @@
 ### 主に学習している言語・フレームワークなど
 
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"  height="60"/> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-    
+  original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-
+  wordmark.svg" alt="html5" width="40"  height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"  height="40"/> 
 </a> 
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40"  height="40"/>
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-
+  wordmark.svg" alt="rails" width="40"  height="40"/>
 </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-
+  original.svg" alt="ruby" width="40" height="40"/> 
 </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img          src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" 
+  width="40" height="40"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" h  height="40"/> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-   
+  plain-wordmark.svg" alt="bootstrap" width="40" h  height="40"/> 
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"  height="40"/>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-
+  wordmark.svg" alt="vuejs" width="40"  height="40"/>
 </a> </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
@@ -46,7 +54,7 @@
 
 アプリURL　https://yukiya1006.github.io/JS-Healing-App/
 
-![giphy](https://user-images.githubusercontent.com/96877368/167841420-2c128622-9a7c-4dda-87e7-6d9a203962f4.gif)
+!![giphy (2)](https://user-images.githubusercontent.com/96877368/168256868-50cf4884-865b-4cad-9513-3550883281fd.gif)
 
 
 
