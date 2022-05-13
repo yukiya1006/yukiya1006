@@ -26,9 +26,13 @@
 
 トレーナーのマッチングサイト
 
-アプリ概要: https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
+使用言語 HTML/CSS/JavaScprict/Ruby/SQL
+ライブラリ jQuery/ScrollReveal
+フレームワーク Ruby on Rails/Tailwind CSS
 
-サイトURL:  http://trental.site/
+アプリ概要　https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
+
+サイトURL　http://trental.site/
 
 ![giphy](https://user-images.githubusercontent.com/96877368/167841420-2c128622-9a7c-4dda-87e7-6d9a203962f4.gif)
 
@@ -36,19 +40,23 @@
 
 ### 瞑想アプリ<br>
 
-アプリ概要: https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
+ロケーションを選んで癒しの音と映像を楽しめるアプリ
 
-アプリURL:  
+使用言語　HTML/CSS/JavaScript
+
+アプリURL　https://yukiya1006.github.io/JS-Healing-App/
 
 ![giphy](https://user-images.githubusercontent.com/96877368/167841420-2c128622-9a7c-4dda-87e7-6d9a203962f4.gif)
 
 
 
-### 数当てゲーム<br>
+### Number Game<br>
 
-アプリ概要: https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
+０から順番に数字を消してタイムを競うゲーム
 
-アプリURL:  
+使用言語　HTML/CSS/JavaScript
+
+アプリURL　https://yukiya1006.github.io/JS-Number-Game/
 
 ![giphy (1)](https://user-images.githubusercontent.com/96877368/168252430-17d9845c-3463-4cd8-ad45-fd84d9241af5.gif)
 
