@@ -22,7 +22,7 @@
 
 ## :tada: Application
 
-アプリ名 TRENTAL<br>
+### TRENTAL<br>
 
 リポジトリ https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
 
