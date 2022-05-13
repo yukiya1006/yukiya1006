@@ -54,7 +54,7 @@
 
 使用言語　HTML/CSS/JavaScript
 
-アプリURL　https://yukiya1006.github.io/JS-Healing-App/
+アプリURL　https://yukiya1006.github.io/JS_Healing_App/
 
 !![giphy (2)](https://user-images.githubusercontent.com/96877368/168256868-50cf4884-865b-4cad-9513-3550883281fd.gif)
 
@@ -66,7 +66,7 @@ Javascriptを使用した数字当てゲーム
 
 使用言語　HTML/CSS/JavaScript
 
-アプリURL　https://yukiya1006.github.io/JS-Number-Game/
+アプリURL　https://yukiya1006.github.io/JS_Number_Game/
 
 ![giphy (1)](https://user-images.githubusercontent.com/96877368/168252430-17d9845c-3463-4cd8-ad45-fd84d9241af5.gif)
 
