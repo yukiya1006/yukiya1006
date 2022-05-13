@@ -1,6 +1,4 @@
 ## 主に学習している言語・フレームワークなど
-
-<br>
 <br>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -34,7 +32,7 @@
 
 # :tada: Application
 <br>
-<br>
+
 ## TRENTAL<br>
 
 トレーナーのマッチングサイト
