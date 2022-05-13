@@ -20,15 +20,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiya1006&=anuraghazra&theme=dark&show_icons=true)
 
-## :tada: Application
+# :tada: Application
 
-### TRENTAL<br>
+## TRENTAL<br>
 
 トレーナーのマッチングサイト
 
-使用言語 HTML/CSS/JavaScprict/Ruby/SQL<br>
-ライブラリ jQuery/ScrollReveal<br>
-フレームワーク Ruby on Rails/Tailwind CSS
+使用言語　　　　HTML/CSS/JavaScprict/Ruby/SQL<br>
+ライブラリ  　　jQuery/ScrollReveal<br>
+フレームワーク　Ruby on Rails/Tailwind CSS
 
 アプリ概要　https://github.com/yukiya1006/TRENTAL_PF#readme<br> 
 
@@ -38,7 +38,7 @@
 
 
 
-### 瞑想アプリ<br>
+## 瞑想アプリ<br>
 
 ロケーションを選んで癒しの音と映像を楽しめるアプリ
 
@@ -50,7 +50,7 @@
 
 
 
-### Number Game<br>
+## Number Game<br>
 
 ０から順番に数字を消してタイムを競うゲーム
 
