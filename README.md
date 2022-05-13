@@ -25,8 +25,8 @@ plain-wordmark.svg" alt="bootstrap" width="40" h  height="40"/>
 wordmark.svg" alt="vuejs" width="40"  height="40"/>
 </a> </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&layout=compact&theme=dracula)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiya1006&=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiya1006&=anuraghazra&theme=dark&show_icons=true)
 
 # :tada: Application
