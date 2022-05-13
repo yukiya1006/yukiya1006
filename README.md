@@ -74,4 +74,14 @@
 
 # :tada: Animation
 
+## Number Game<br>
+
+０から順番に数字を消してタイムを競うゲーム
+
+使用言語　HTML/CSS/JavaScript
+
+アプリURL　https://yukiya1006.github.io/JS-Number-Game/
+
+![giphy (1)](https://user-images.githubusercontent.com/96877368/168252430-17d9845c-3463-4cd8-ad45-fd84d9241af5.gif)
+
 # :tada: Page Design
