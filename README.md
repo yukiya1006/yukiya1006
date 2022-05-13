@@ -50,7 +50,7 @@
 
 アプリURL:  
 
-![giphy](https://user-images.githubusercontent.com/96877368/167841420-2c128622-9a7c-4dda-87e7-6d9a203962f4.gif)
+![giphy (1)](https://user-images.githubusercontent.com/96877368/168252430-17d9845c-3463-4cd8-ad45-fd84d9241af5.gif)
 
 ## :tada: Animation
 
