@@ -46,8 +46,8 @@
 
 ![giphy](https://user-images.githubusercontent.com/96877368/167841420-2c128622-9a7c-4dda-87e7-6d9a203962f4.gif)
 
-<br>
-<br>
+
+
 ## 瞑想アプリ<br>
 
 ロケーションを選んで癒しの音と映像を楽しめるアプリ
