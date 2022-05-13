@@ -62,7 +62,7 @@
 
 ## Number Game<br>
 
-０から順番に数字を消してタイムを競うゲーム
+Javascriptを使用した数字当てゲーム
 
 使用言語　HTML/CSS/JavaScript
 
@@ -72,6 +72,22 @@
 
 
 
+## Question Game<br>
+
+JavaScriptを使用した4択ゲーム
+
+使用言語　HTML/CSS/JavaScript
+
+アプリURL　https://yukiya1006.github.io/JS_Question_App/
+
+![question](https://user-images.githubusercontent.com/96877368/168268788-b97a781f-44bf-4806-9912-174b7cc298b1.gif)
+
+
+
 # :tada: Animation
 Background Hover Animatuon　https://yukiya1006.github.io/Background-Hover-Animation/
-# :tada: Page Design
+
+
+
+# :tada: LP
+Music　https://yukiya1006.github.io/Music_LP/
