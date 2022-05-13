@@ -35,7 +35,6 @@
 # :tada: Application
 <br>
 <br>
-<br>
 ## TRENTAL<br>
 
 トレーナーのマッチングサイト
