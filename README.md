@@ -85,7 +85,7 @@ JavaScriptを使用した4択ゲーム
 
 
 # :tada: Animation
-Background Hover Animatuon　https://yukiya1006.github.io/Background-Hover-Animation/
+Background Hover Animatuon　https://yukiya1006.github.io/Background_Hover_Animation/
 
 
 
