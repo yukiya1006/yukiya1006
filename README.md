@@ -56,7 +56,7 @@
 
 アプリURL　https://yukiya1006.github.io/JS_Healing_App/
 
-!![giphy (2)](https://user-images.githubusercontent.com/96877368/168256868-50cf4884-865b-4cad-9513-3550883281fd.gif)
+![healing](https://user-images.githubusercontent.com/96877368/168456397-df5ae446-5117-43fa-81b8-4443a993f541.gif)
 
 
 
@@ -68,7 +68,7 @@ Javascriptを使用した数字当てゲーム
 
 アプリURL　https://yukiya1006.github.io/JS_Number_Game/
 
-![giphy (1)](https://user-images.githubusercontent.com/96877368/168252430-17d9845c-3463-4cd8-ad45-fd84d9241af5.gif)
+![number game](https://user-images.githubusercontent.com/96877368/168456419-08a708d1-240a-413b-b08a-582f449537c5.gif)
 
 
 
@@ -90,7 +90,7 @@ Reactを使用したtodoアプリ
 
 使用言語　HTML/CSS/React
 
-![react-todo](https://user-images.githubusercontent.com/96877368/168454450-574b9aef-d1bc-44de-b9f5-14f98aa2c6ac.gif)
+![react-todo](https://user-images.githubusercontent.com/96877368/168456425-87212ffc-7d06-4fd7-a70e-0165abd5bbc3.gif)
 
 
 
