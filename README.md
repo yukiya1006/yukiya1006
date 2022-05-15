@@ -80,7 +80,7 @@ JavaScriptを使用した4択ゲーム
 
 アプリURL　https://yukiya1006.github.io/JS_Question_App/
 
-![question](https://user-images.githubusercontent.com/96877368/168268788-b97a781f-44bf-4806-9912-174b7cc298b1.gif)
+![question](https://user-images.githubusercontent.com/96877368/168456655-381b8f1d-57dd-465a-be31-b4776d0a9df8.gif)
 
 
 
