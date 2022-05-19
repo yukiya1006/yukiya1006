@@ -114,5 +114,6 @@ Background Hover Animatuon　https://yukiya1006.github.io/Background_Hover_Anima
 
 
 # :tada: Landing Page
-Music　https://yukiya1006.github.io/Music_LP/
+Music　https://yukiya1006.github.io/Music_LP/r>
+<br>
 Vide　https://yukiya1006.github.io/Video_LP/
