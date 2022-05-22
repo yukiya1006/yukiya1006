@@ -116,6 +116,9 @@ Vue.jsを使用したスライドショー
 
 アプリURL　https://yukiya1006.github.io/Vue-Carousel/
 
+![carousel](https://user-images.githubusercontent.com/96877368/169681130-9ed39a8f-11ab-4f7f-bcfd-fdacd726f5ed.gif)
+
+
 
 
 ## チャットアプリ<br>
@@ -125,6 +128,9 @@ Node.jsを使用したリアルタイムチャットアプリ
 使用言語　HTML/CSS/Node.js
 
 アプリURL　https://node-live-chat-beta.herokuapp.com/
+
+![node-live-chat](https://user-images.githubusercontent.com/96877368/169681106-0759e269-4a0d-4460-a7ec-b75e4afee6ea.gif)
+
 
 
 
