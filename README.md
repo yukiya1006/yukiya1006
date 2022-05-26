@@ -44,7 +44,8 @@
 
 サイトURL　http://trental.site/
 
-![trental](https://user-images.githubusercontent.com/96877368/170471905-bbc9189a-54dc-4e10-94c0-05f25274be6d.gif)
+![trental-pc](https://user-images.githubusercontent.com/96877368/170479584-e4b131ab-aaca-479c-a8db-9cdf59528eda.gif)
+![trental-mobil](https://user-images.githubusercontent.com/96877368/170479593-1113d7d4-4683-462b-9bd9-3526267b77d6.gif)
 
 
 
