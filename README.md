@@ -152,4 +152,4 @@ Video　https://yukiya1006.github.io/Video_LP/
 <br>
 Bootstrap　https://yukiya1006.github.io/Bootstrap_LP/
 <br>
-LAEPI　https://yukiya1006.github.io/LAEPI_LP/
+LAEPI(実家のパン屋)　https://yukiya1006.github.io/LAEPI_LP/
