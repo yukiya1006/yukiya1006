@@ -91,7 +91,8 @@ Reactを使用したtodoアプリ
 
 使用言語　HTML/CSS/React
 
-アプリURL　https://yukiya1006.github.io/React-Todo-App/
+![react-todo](https://user-images.githubusercontent.com/96877368/170724792-aef3ca3c-ede6-48bc-aa2f-70514749220c.gif)
+
 
 
 
@@ -101,7 +102,7 @@ React、unsplash APIを使用した検索アプリ
 
 使用言語　HTML/CSS/React
 
-アプリURL　https://yukiya1006.github.io/React_Serach_App/
+![node-unsplash](https://user-images.githubusercontent.com/96877368/170724229-2e6c1c47-411b-437d-b124-026d6d73e669.gif)
 
 
 ## カルーセル<br>
