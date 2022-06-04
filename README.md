@@ -53,7 +53,7 @@
 
 ロケーションを選んで癒しの音と映像を楽しめるアプリ
 
-使用言語　HTML/CSS/JavaScript
+使用言語・フレームワーク　HTML/CSS/JavaScript
 
 アプリURL　https://yukiya1006.github.io/JS_Healing_App/
 
@@ -65,7 +65,7 @@
 
 Javascriptを使用した数字当てゲーム
 
-使用言語　HTML/CSS/JavaScript
+使用言語・フレームワーク　HTML/CSS/JavaScript
 
 アプリURL　https://yukiya1006.github.io/JS_Number_Game/
 
@@ -77,7 +77,7 @@ Javascriptを使用した数字当てゲーム
 
 JavaScriptを使用した4択ゲーム
 
-使用言語　HTML/CSS/JavaScript
+使用言語・フレームワーク　HTML/CSS/JavaScript
 
 アプリURL　https://yukiya1006.github.io/JS_Question_App/
 
@@ -89,7 +89,7 @@ JavaScriptを使用した4択ゲーム
 
 Reactを使用したtodoアプリ
 
-使用言語　HTML/CSS/React
+使用言語・フレームワーク　HTML/CSS/React
 
 ![react-todo](https://user-images.githubusercontent.com/96877368/170724792-aef3ca3c-ede6-48bc-aa2f-70514749220c.gif)
 
@@ -100,7 +100,7 @@ Reactを使用したtodoアプリ
 
 React、unsplash APIを使用した検索アプリ
 
-使用言語　HTML/CSS/React
+使用言語・フレームワーク　HTML/CSS/React
 
 ![node-unsplash](https://user-images.githubusercontent.com/96877368/170725410-69497da3-2bee-450c-b92b-3bbbaa5a5fdb.gif)
 
@@ -110,7 +110,7 @@ React、unsplash APIを使用した検索アプリ
 
 Vue.jsを使用したスライドショー
 
-使用言語　HTML/CSS/Vue.js
+使用言語・フレームワーク　HTML/CSS/Vue.js
 
 アプリURL　https://yukiya1006.github.io/Vue-Carousel/
 
@@ -123,12 +123,21 @@ Vue.jsを使用したスライドショー
 
 Node.jsを使用したリアルタイムチャットアプリ
 
-使用言語　HTML/CSS/Node.js
+使用言語・フレームワーク　HTML/CSS/Node.js
 
 アプリURL　https://node-live-chat-beta.herokuapp.com/
 
 ![node-live-chat](https://user-images.githubusercontent.com/96877368/169681106-0759e269-4a0d-4460-a7ec-b75e4afee6ea.gif)
 
+
+
+## ナビゲーションバー<br>
+
+Reactとtailwindを使用したナビゲーションバー
+
+使用言語・フレームワーク　HTML/CSS/React/tailwind CSS
+
+![react-tw-navbar](https://user-images.githubusercontent.com/96877368/171996045-30cedc3b-4287-4ac5-8665-cea2fdf777aa.gif)
 
 
 
